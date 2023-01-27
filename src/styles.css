@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.gif-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
