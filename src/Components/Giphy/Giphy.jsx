@@ -9,4 +9,3 @@ function Giphy(props) {
 }
 
 export default Giphy;
-// hola
